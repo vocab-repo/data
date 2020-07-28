@@ -10,7 +10,7 @@ while(True):
             t_ipa = inf.readline()
             t_e2c = inf.readline()
             t_e2e = inf.readline()
-            ouf = open("/mnt/c/Users/yang/repo/eng-data/dict/main/%s.json"%t_id,"w")
+            ouf = open("/mnt/c/Users/yang/repo/eng-data/dict/tea/%s.json"%t_word,"w")
             ouf.write('{"id":"%d","word":"%s","IPA":"%s","E2C":"%s","E2E":"%s"}'%(t_id,t_word,t_ipa[:-1],t_e2c[:-1],t_e2e[:-1]))
             print('{"id":"%d","word":"%s","IPA":"%s","E2C":"%s","E2E":"%s"}'%(t_id,t_word,t_ipa[:-1],t_e2c[:-1],t_e2e[:-1]))
         except:
