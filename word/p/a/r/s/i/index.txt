@@ -1,0 +1,6 @@
+parsi
+parsifal
+parsimonious
+parsimoniously
+parsimony
+parsing

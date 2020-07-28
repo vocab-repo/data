@@ -1,0 +1,6 @@
+inflect
+inflectable
+inflection
+inflectional
+inflective
+inflector

@@ -1,0 +1,4 @@
+phosphatide
+phosphatidyl
+phosphatidylcholine
+phosphatidylethanolamine

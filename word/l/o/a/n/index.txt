@@ -1,0 +1,9 @@
+loan
+loanable
+loanblend
+loanda
+loanee
+loaner
+loans
+loanshift
+loanword

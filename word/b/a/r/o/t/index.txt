@@ -1,0 +1,4 @@
+barothermogram
+barothermograph
+barothermohygrogram
+barotolerance

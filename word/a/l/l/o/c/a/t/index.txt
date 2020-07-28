@@ -1,0 +1,7 @@
+allocate
+allocated
+allocatee
+allocating
+allocation
+allocations
+allocator

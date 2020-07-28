@@ -1,0 +1,6 @@
+pycnidium
+pycnocline
+pycnogonid
+pycnometer
+pycnorneter
+pycnosis

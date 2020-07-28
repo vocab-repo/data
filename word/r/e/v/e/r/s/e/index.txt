@@ -1,0 +1,4 @@
+reverse
+reversed
+reversedly
+reversely

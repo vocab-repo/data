@@ -1,0 +1,9 @@
+ld
+lda
+ldap
+ldc
+ldh
+ldl
+ldp
+ldrs
+lds

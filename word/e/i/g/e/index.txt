@@ -1,0 +1,6 @@
+eigenfrequency
+eigenfunction
+eigenvalue
+eigenvalues
+eigenvector
+eiger

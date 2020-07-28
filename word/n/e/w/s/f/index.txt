@@ -1,0 +1,4 @@
+newsfeed
+newsfeeds
+newsflash
+newsforge

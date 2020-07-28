@@ -1,0 +1,4 @@
+lightface
+lightfaced
+lightfast
+lightfastness

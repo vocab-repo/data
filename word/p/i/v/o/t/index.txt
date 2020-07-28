@@ -1,0 +1,4 @@
+pivot
+pivotal
+pivotman
+pivottable

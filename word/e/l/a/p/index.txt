@@ -1,0 +1,4 @@
+elaphine
+elapid
+elapse
+elapsed

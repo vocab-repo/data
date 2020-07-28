@@ -1,0 +1,3 @@
+permutable
+permutation
+permute

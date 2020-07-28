@@ -1,0 +1,5 @@
+clothespin
+clothespole
+clothespost
+clothespress
+clothesprop

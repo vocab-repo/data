@@ -1,0 +1,6 @@
+damage
+damageable
+damaged
+damages
+damaging
+damagingly

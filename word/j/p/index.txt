@@ -1,0 +1,7 @@
+jp
+jpeg
+jpg
+jpl
+jpn
+jps
+jpy

@@ -1,0 +1,4 @@
+semistagnation
+semistarved
+semisteel
+semistrong

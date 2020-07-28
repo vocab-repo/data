@@ -1,0 +1,10 @@
+gs
+gsa
+gsc
+gsdi
+gsm
+gso
+gsp
+gss
+gst
+gsv

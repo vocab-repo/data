@@ -1,0 +1,6 @@
+vm
+vmd
+vmi
+vms
+vmtp
+vmware

@@ -1,0 +1,9 @@
+move
+moveable
+moved
+moveless
+movement
+movements
+mover
+movers
+moves

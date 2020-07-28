@@ -1,0 +1,3 @@
+terse
+tersely
+terseness

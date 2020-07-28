@@ -1,0 +1,8 @@
+lodge
+lodgeable
+lodged
+lodger
+lodges
+lodging
+lodgings
+lodgment

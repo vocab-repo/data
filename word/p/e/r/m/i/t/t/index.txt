@@ -1,0 +1,4 @@
+permitted
+permittee
+permitting
+permittivity

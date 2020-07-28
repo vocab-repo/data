@@ -1,0 +1,5 @@
+wiki
+wikimedia
+wikiname
+wikipedia
+wikiup

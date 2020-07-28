@@ -1,0 +1,4 @@
+exploitability
+exploitable
+exploitation
+exploitative

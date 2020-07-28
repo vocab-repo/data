@@ -1,0 +1,12 @@
+score
+scoreboard
+scorebook
+scorecard
+scored
+scorekeeper
+scoreless
+scoreline
+scorepad
+scorer
+scores
+scoresheet

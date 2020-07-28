@@ -1,0 +1,7 @@
+shoot
+shootable
+shooter
+shooters
+shooting
+shootout
+shoots

@@ -1,0 +1,5 @@
+serialisation
+serialise
+serialism
+serialization
+serialize

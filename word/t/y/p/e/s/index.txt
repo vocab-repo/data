@@ -1,0 +1,5 @@
+types
+typescript
+typeset
+typesetter
+typesetting

@@ -1,0 +1,3 @@
+disallow
+disallowable
+disallowance

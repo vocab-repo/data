@@ -1,0 +1,7 @@
+rm
+rma
+rmb
+rmc
+rmi
+rms
+rmt

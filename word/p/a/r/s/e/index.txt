@@ -1,0 +1,7 @@
+parse
+parsec
+parsed
+parsee
+parseeism
+parser
+parseval

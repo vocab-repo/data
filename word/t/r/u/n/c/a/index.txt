@@ -1,0 +1,4 @@
+truncal
+truncate
+truncated
+truncation

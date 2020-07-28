@@ -1,0 +1,4 @@
+inventor
+inventories
+inventors
+inventory

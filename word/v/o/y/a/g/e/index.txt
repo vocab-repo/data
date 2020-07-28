@@ -1,0 +1,4 @@
+voyage
+voyageable
+voyager
+voyageur

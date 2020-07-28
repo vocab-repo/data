@@ -1,0 +1,4 @@
+puncta
+punctate
+punctated
+punctatim

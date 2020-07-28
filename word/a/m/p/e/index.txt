@@ -1,0 +1,8 @@
+ampelopsis
+amperage
+ampere
+amperehour
+amperemeter
+amperometer
+amperometric
+ampersand

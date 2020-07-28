@@ -1,0 +1,3 @@
+longwall
+longways
+longwise

@@ -1,0 +1,3 @@
+glottal
+glottalic
+glottalize

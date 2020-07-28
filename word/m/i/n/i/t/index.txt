@@ -1,0 +1,5 @@
+minitance
+minitank
+minitanker
+minitrack
+minitype

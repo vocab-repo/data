@@ -1,0 +1,9 @@
+pm
+pma
+pmc
+pmi
+pmkd
+pmla
+pmo
+pmpo
+pms

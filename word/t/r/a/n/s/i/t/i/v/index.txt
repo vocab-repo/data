@@ -1,0 +1,4 @@
+transitive
+transitively
+transitivize
+transitivizer

@@ -1,0 +1,5 @@
+msg
+msgid
+msgm
+msgs
+msgstr

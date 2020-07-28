@@ -1,0 +1,4 @@
+linearise
+linearity
+linearization
+linearize

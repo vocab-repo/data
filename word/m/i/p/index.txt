@@ -1,0 +1,3 @@
+mipafox
+mipmap
+mips

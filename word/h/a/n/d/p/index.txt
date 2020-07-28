@@ -1,0 +1,5 @@
+handpick
+handpicked
+handplay
+handpress
+handprint

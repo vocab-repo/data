@@ -1,0 +1,5 @@
+deport
+deportable
+deportation
+deportee
+deportment

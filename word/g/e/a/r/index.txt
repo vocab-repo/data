@@ -1,0 +1,11 @@
+gear
+gearbox
+gearcase
+gearchange
+geared
+gearing
+gearless
+gearlever
+gears
+gearshift
+gearwheel

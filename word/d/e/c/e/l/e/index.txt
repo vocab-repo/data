@@ -1,0 +1,4 @@
+decelerate
+deceleration
+decelerometer
+deceleron

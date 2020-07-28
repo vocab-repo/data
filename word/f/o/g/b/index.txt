@@ -1,0 +1,4 @@
+fogbank
+fogbound
+fogbow
+fogbroom

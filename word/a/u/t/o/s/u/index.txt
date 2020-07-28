@@ -1,0 +1,3 @@
+autosuggest
+autosuggestion
+autosum

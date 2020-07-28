@@ -1,0 +1,5 @@
+thrift
+thriftily
+thriftless
+thriftlessly
+thrifty

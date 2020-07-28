@@ -1,0 +1,4 @@
+movability
+movable
+movably
+movado

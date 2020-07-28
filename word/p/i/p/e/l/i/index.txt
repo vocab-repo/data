@@ -1,0 +1,4 @@
+pipelike
+pipeline
+pipelines
+pipelining

@@ -1,0 +1,4 @@
+cumulocirrus
+cumulonimbus
+cumulostratus
+cumulous

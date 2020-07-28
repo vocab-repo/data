@@ -1,0 +1,2 @@
+syzygial
+syzygy

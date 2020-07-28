@@ -1,0 +1,5 @@
+flags
+flagship
+flagstaff
+flagstick
+flagstone

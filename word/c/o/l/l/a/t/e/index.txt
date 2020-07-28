@@ -1,0 +1,3 @@
+collate
+collateral
+collateralize

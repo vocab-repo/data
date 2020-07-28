@@ -1,0 +1,7 @@
+segment
+segmentable
+segmental
+segmentalize
+segmentary
+segmentation
+segments

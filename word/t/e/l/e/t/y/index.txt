@@ -1,0 +1,4 @@
+teletype
+teletypesetter
+teletypewriter
+teletypist

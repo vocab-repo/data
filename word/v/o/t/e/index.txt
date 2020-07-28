@@ -1,0 +1,6 @@
+vote
+voteable
+voted
+voter
+voters
+votes

@@ -1,0 +1,4 @@
+weathercast
+weathercoat
+weathercock
+weathercondition

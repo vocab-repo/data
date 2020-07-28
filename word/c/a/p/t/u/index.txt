@@ -1,0 +1,4 @@
+capture
+captured
+captures
+capturing

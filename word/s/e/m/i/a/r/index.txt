@@ -1,0 +1,4 @@
+semiarboreal
+semiarc
+semiarch
+semiarid

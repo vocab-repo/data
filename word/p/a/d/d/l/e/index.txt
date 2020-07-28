@@ -1,0 +1,8 @@
+paddle
+paddleball
+paddleboard
+paddlefish
+paddler
+paddles
+paddlesteamer
+paddlewheeler

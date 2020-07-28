@@ -1,0 +1,4 @@
+nonmedical
+nonmember
+nonmetal
+nonmetallic

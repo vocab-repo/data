@@ -1,0 +1,4 @@
+haver
+haversack
+haversian
+haversine

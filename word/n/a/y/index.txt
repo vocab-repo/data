@@ -1,0 +1,4 @@
+nay
+nays
+naysaid
+naysay

@@ -1,0 +1,7 @@
+textural
+texture
+textured
+textureless
+textures
+texturize
+texturology

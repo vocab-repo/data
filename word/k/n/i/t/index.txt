@@ -1,0 +1,6 @@
+knit
+knitgoods
+knitter
+knitting
+knitwear
+knitwork

@@ -1,0 +1,2 @@
+copyread
+copyreader

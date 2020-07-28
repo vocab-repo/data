@@ -1,0 +1,6 @@
+vs
+vsam
+vsat
+vsf
+vsnet
+vstol

@@ -1,0 +1,5 @@
+scribal
+scribble
+scribbler
+scribe
+scriber

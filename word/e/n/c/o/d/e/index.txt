@@ -1,0 +1,4 @@
+encode
+encoded
+encoder
+encodes

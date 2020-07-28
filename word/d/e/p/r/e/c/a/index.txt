@@ -1,0 +1,6 @@
+deprecate
+deprecated
+deprecatingly
+deprecation
+deprecative
+deprecatory

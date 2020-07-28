@@ -1,0 +1,4 @@
+oscillogram
+oscillograph
+oscillometer
+oscilloscope

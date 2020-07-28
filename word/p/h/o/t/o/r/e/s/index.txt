@@ -1,0 +1,4 @@
+photoresistance
+photoresistive
+photoresistor
+photorespiration

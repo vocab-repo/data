@@ -1,0 +1,4 @@
+glove
+gloveman
+glover
+gloves

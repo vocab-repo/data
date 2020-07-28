@@ -1,0 +1,4 @@
+fatigue
+fatigued
+fatigueless
+fatiguesome

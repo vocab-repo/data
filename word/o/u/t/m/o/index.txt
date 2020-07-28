@@ -1,0 +1,3 @@
+outmode
+outmoded
+outmost

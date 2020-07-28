@@ -1,0 +1,5 @@
+screens
+screensaver
+screensavers
+screenshot
+screenshots

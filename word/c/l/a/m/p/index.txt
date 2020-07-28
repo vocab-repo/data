@@ -1,0 +1,4 @@
+clamp
+clampdown
+clamper
+clamps

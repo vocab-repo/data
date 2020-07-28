@@ -1,0 +1,4 @@
+inertia
+inertial
+inertialess
+inertially

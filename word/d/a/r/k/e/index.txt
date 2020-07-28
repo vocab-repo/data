@@ -1,0 +1,4 @@
+darken
+darker
+darkest
+darkey

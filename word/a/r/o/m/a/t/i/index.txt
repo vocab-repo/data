@@ -1,0 +1,3 @@
+aromatic
+aromaticity
+aromatize

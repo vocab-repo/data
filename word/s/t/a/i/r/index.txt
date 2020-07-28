@@ -1,0 +1,5 @@
+stair
+staircase
+stairhead
+stairs
+stairway

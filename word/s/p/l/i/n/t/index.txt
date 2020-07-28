@@ -1,0 +1,6 @@
+splint
+splintage
+splinter
+splinterless
+splinterproof
+splintery

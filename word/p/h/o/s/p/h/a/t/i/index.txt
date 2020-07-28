@@ -1,0 +1,6 @@
+phosphatic
+phosphatide
+phosphatidyl
+phosphatidylcholine
+phosphatidylethanolamine
+phosphatize

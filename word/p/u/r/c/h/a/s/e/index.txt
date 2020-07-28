@@ -1,0 +1,6 @@
+purchase
+purchased
+purchaseless
+purchaser
+purchasers
+purchases

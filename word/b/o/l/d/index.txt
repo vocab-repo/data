@@ -1,0 +1,6 @@
+bold
+boldface
+boldfaced
+boldhearted
+boldly
+boldness

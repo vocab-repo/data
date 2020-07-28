@@ -1,0 +1,4 @@
+width
+widths
+widthways
+widthwise

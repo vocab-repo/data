@@ -1,0 +1,3 @@
+inferrable
+inferred
+inferrible

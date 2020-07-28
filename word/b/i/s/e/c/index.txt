@@ -1,0 +1,4 @@
+bisect
+bisection
+bisector
+bisectrix

@@ -1,0 +1,3 @@
+revokable
+revoke
+revoked

@@ -1,0 +1,4 @@
+sparkle
+sparkler
+sparkless
+sparklet

@@ -1,0 +1,7 @@
+declarable
+declarant
+declaration
+declarations
+declarative
+declarator
+declaratory

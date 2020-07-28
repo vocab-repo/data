@@ -1,0 +1,5 @@
+rescuable
+rescue
+rescued
+rescuee
+rescuer

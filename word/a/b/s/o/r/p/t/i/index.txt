@@ -1,0 +1,4 @@
+absorptiometer
+absorption
+absorptive
+absorptivity

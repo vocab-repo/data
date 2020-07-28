@@ -1,0 +1,6 @@
+wp
+wpa
+wpc
+wpi
+wpm
+wps

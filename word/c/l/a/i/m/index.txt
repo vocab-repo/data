@@ -1,0 +1,9 @@
+claim
+claimable
+claimant
+claimants
+claimed
+claimer
+claiming
+claims
+claimsman

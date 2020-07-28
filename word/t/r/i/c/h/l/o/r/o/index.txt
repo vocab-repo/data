@@ -1,0 +1,5 @@
+trichloroacetaldehyde
+trichloroethylene
+trichloromethane
+trichloronitromethane
+trichlorophenol

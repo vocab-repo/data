@@ -1,0 +1,5 @@
+trades
+tradesfolk
+tradesman
+tradespeople
+tradeswoman

@@ -1,0 +1,3 @@
+pyrosis
+pyrostat
+pyrosulphate

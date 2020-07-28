@@ -1,0 +1,3 @@
+regulator
+regulators
+regulatory

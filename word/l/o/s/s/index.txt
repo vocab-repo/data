@@ -1,0 +1,6 @@
+loss
+losses
+lossless
+lossmaker
+lossmaking
+lossy

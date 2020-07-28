@@ -1,0 +1,6 @@
+waist
+waistband
+waistbelt
+waistcloth
+waistcoat
+waistline

@@ -1,0 +1,4 @@
+labiodental
+labionasal
+labiovelar
+labiovelarize

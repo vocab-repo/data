@@ -1,0 +1,4 @@
+disconnect
+disconnected
+disconnection
+disconnexion

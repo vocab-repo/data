@@ -1,0 +1,4 @@
+mines
+minestrone
+minesweeper
+minesweeping

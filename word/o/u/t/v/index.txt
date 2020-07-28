@@ -1,0 +1,4 @@
+outvalue
+outvie
+outvoice
+outvote

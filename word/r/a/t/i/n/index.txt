@@ -1,0 +1,3 @@
+ratine
+rating
+ratings

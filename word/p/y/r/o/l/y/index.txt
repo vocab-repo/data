@@ -1,0 +1,5 @@
+pyrolysate
+pyrolyse
+pyrolysis
+pyrolyzate
+pyrolyze

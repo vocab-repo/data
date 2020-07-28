@@ -1,0 +1,4 @@
+attractability
+attractable
+attractableness
+attractant

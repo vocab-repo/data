@@ -1,0 +1,6 @@
+multipriority
+multiprobe
+multiprocessing
+multiprocessor
+multiprograming
+multiprogramming

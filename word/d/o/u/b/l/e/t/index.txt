@@ -1,0 +1,4 @@
+doublet
+doublethink
+doubleton
+doubletree

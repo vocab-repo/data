@@ -1,0 +1,5 @@
+lint
+lintel
+linter
+lintwhite
+linty

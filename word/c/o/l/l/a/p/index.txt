@@ -1,0 +1,4 @@
+collapsar
+collapse
+collapsed
+collapsible

@@ -1,0 +1,7 @@
+disk
+diskcomp
+diskcopy
+diskdupe
+diskette
+diskpark
+disks

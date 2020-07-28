@@ -1,0 +1,5 @@
+gems
+gemsbok
+gemsbuck
+gemstone
+gemstones

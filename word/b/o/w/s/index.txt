@@ -1,0 +1,6 @@
+bows
+bowshock
+bowshot
+bowsman
+bowsprit
+bowstring

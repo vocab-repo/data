@@ -1,0 +1,8 @@
+triangle
+triangles
+triangulable
+triangular
+triangularity
+triangularly
+triangulate
+triangulation

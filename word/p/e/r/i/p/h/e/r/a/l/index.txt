@@ -1,0 +1,3 @@
+peripheral
+peripherally
+peripherals

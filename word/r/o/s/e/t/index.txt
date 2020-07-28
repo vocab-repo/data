@@ -1,0 +1,3 @@
+roset
+rosetta
+rosette

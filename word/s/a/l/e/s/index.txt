@@ -1,0 +1,12 @@
+sales
+salesclerk
+salesgirl
+salesian
+salesite
+saleslady
+salesman
+salesmanship
+salespeople
+salesperson
+salesroom
+saleswoman

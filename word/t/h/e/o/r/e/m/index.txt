@@ -1,0 +1,3 @@
+theorem
+theorematic
+theorems

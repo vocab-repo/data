@@ -1,0 +1,4 @@
+greet
+greeted
+greeting
+greetings

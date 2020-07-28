@@ -1,0 +1,5 @@
+lethal
+lethality
+lethargic
+lethargize
+lethargy

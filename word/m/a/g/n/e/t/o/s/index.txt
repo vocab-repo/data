@@ -1,0 +1,5 @@
+magnetoscope
+magnetosheath
+magnetosphere
+magnetostatic
+magnetostatics

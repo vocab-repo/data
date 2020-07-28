@@ -1,0 +1,3 @@
+axis
+axisymmetric
+axisymmetrical

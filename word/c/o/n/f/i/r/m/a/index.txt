@@ -1,0 +1,5 @@
+confirmable
+confirmand
+confirmation
+confirmative
+confirmatory

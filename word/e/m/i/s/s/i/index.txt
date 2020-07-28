@@ -1,0 +1,4 @@
+emission
+emissions
+emissive
+emissivity

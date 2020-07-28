@@ -1,0 +1,3 @@
+spectate
+spectator
+spectatoritis

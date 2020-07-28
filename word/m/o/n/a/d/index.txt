@@ -1,0 +1,6 @@
+monad
+monadelphous
+monadic
+monadism
+monadnock
+monadology

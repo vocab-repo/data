@@ -1,0 +1,12 @@
+np
+npa
+npc
+npcf
+npd
+npf
+npl
+npn
+npr
+nps
+npt
+npv

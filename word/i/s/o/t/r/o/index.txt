@@ -1,0 +1,4 @@
+isotron
+isotropic
+isotropism
+isotropous

@@ -1,0 +1,6 @@
+application
+applications
+applicative
+applicatively
+applicator
+applicatory

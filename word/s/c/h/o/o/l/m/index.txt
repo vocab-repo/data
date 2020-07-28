@@ -1,0 +1,7 @@
+schoolmaid
+schoolman
+schoolmarm
+schoolmaster
+schoolmate
+schoolmiss
+schoolmistress

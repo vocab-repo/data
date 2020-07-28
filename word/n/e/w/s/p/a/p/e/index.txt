@@ -1,0 +1,6 @@
+newspaper
+newspaperdom
+newspapering
+newspaperman
+newspapers
+newspaperwoman

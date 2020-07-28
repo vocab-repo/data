@@ -1,0 +1,4 @@
+azur
+azure
+azurite
+azury

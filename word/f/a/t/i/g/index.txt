@@ -1,0 +1,6 @@
+fatigability
+fatigable
+fatigue
+fatigued
+fatigueless
+fatiguesome

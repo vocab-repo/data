@@ -1,0 +1,4 @@
+traversable
+traverse
+traverser
+traversing

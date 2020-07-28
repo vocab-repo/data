@@ -1,0 +1,3 @@
+ascribable
+ascribe
+ascription

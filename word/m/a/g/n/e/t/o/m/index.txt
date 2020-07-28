@@ -1,0 +1,3 @@
+magnetometer
+magnetometive
+magnetomotive

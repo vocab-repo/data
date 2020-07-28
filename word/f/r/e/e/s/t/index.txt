@@ -1,0 +1,3 @@
+freestanding
+freestone
+freestyle

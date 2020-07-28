@@ -1,0 +1,3 @@
+inquire
+inquired
+inquirer

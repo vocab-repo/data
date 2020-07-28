@@ -1,0 +1,4 @@
+generalizable
+generalization
+generalize
+generalized

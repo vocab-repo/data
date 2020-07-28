@@ -1,0 +1,6 @@
+lamps
+lampshade
+lampshell
+lampson
+lampstand
+lampstandard

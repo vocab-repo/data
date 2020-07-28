@@ -1,0 +1,9 @@
+hd
+hdcd
+hdcopy
+hdd
+hdf
+hdl
+hdmi
+hdr
+hdtv

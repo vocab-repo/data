@@ -1,0 +1,3 @@
+pyrex
+pyrexia
+pyrexic

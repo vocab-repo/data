@@ -1,0 +1,4 @@
+ideogram
+ideograph
+ideographic
+ideography

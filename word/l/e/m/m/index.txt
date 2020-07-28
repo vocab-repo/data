@@ -1,0 +1,4 @@
+lemma
+lemmatize
+lemme
+lemming

@@ -1,0 +1,4 @@
+tricolor
+tricolored
+tricolour
+tricoloured

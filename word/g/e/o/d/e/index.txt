@@ -1,0 +1,4 @@
+geode
+geodesic
+geodesy
+geodetic

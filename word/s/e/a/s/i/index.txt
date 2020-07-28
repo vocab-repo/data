@@ -1,0 +1,3 @@
+seasick
+seasickness
+seaside

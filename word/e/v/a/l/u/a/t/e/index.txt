@@ -1,0 +1,3 @@
+evaluate
+evaluated
+evaluates

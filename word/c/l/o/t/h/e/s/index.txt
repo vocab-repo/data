@@ -1,0 +1,12 @@
+clothes
+clothesbag
+clothesbasket
+clothesbrush
+clotheshorse
+clothesline
+clothesman
+clothespin
+clothespole
+clothespost
+clothespress
+clothesprop

@@ -1,0 +1,5 @@
+mitre
+mitreblock
+mitreboard
+mitrebox
+mitred

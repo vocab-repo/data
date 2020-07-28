@@ -1,0 +1,5 @@
+opac
+opacify
+opacimeter
+opacity
+opacus

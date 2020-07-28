@@ -1,0 +1,9 @@
+weld
+weldable
+welded
+welder
+welding
+weldless
+weldment
+weldon
+weldor

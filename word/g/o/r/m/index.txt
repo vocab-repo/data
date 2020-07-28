@@ -1,0 +1,6 @@
+gorm
+gorman
+gormand
+gormandize
+gormandizer
+gormless

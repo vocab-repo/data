@@ -1,0 +1,6 @@
+mantic
+manticore
+mantid
+mantilla
+mantis
+mantissa

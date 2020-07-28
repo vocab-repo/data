@@ -1,0 +1,4 @@
+photodecomposition
+photodegradable
+photodegrade
+photodetector

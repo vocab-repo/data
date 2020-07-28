@@ -1,0 +1,6 @@
+signatary
+signatory
+signatum
+signature
+signatureless
+signatures

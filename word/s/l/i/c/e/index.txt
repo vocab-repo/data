@@ -1,0 +1,5 @@
+slice
+sliceable
+sliced
+slicer
+slices

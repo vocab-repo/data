@@ -1,0 +1,4 @@
+noncombat
+noncombatant
+noncombustibility
+noncombustible

@@ -1,0 +1,3 @@
+weathercoat
+weathercock
+weathercondition

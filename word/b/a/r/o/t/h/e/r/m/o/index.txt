@@ -1,0 +1,3 @@
+barothermogram
+barothermograph
+barothermohygrogram

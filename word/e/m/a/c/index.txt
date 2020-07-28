@@ -1,0 +1,4 @@
+emaciate
+emaciated
+emaciation
+emacs

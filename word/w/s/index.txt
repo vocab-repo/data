@@ -1,0 +1,10 @@
+wsa
+wsb
+wscf
+wsdl
+wsis
+wsj
+wsop
+wsp
+wsu
+wsw

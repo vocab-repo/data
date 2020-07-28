@@ -1,0 +1,9 @@
+gd
+gdb
+gdi
+gdingen
+gdmo
+gdp
+gdr
+gdss
+gdynia

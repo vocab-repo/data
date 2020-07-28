@@ -1,0 +1,3 @@
+neighborless
+neighborliness
+neighborly

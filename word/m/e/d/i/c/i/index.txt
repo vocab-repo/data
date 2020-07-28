@@ -1,0 +1,5 @@
+medici
+medicinable
+medicinal
+medicine
+medicines

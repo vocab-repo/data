@@ -1,0 +1,7 @@
+enum
+enumerable
+enumerably
+enumerate
+enumerated
+enumeration
+enumerative

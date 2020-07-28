@@ -1,0 +1,4 @@
+corps
+corpse
+corpselike
+corpsman

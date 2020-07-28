@@ -1,0 +1,5 @@
+bookstack
+bookstall
+bookstand
+bookstore
+bookstores

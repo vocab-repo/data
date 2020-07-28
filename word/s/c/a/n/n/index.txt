@@ -1,0 +1,5 @@
+scannable
+scanned
+scanner
+scanners
+scanning

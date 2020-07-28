@@ -1,0 +1,4 @@
+stride
+stridence
+strident
+strides

@@ -1,0 +1,3 @@
+ligan
+ligand
+ligands

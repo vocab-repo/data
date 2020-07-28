@@ -1,0 +1,5 @@
+attenuable
+attenuant
+attenuate
+attenuation
+attenuator

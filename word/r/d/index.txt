@@ -1,0 +1,10 @@
+rd
+rda
+rdac
+rdb
+rdc
+rdf
+rdo
+rdram
+rds
+rdx

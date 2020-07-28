@@ -1,0 +1,6 @@
+franchise
+franchisee
+franchiser
+franchises
+franchising
+franchisor

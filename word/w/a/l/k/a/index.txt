@@ -1,0 +1,4 @@
+walkable
+walkabout
+walkathon
+walkaway

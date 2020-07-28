@@ -1,0 +1,4 @@
+clans
+clanship
+clansman
+clanswoman

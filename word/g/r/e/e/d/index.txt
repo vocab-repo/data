@@ -1,0 +1,4 @@
+greed
+greedily
+greediness
+greedy

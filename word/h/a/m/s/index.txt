@@ -1,0 +1,3 @@
+hamshackle
+hamster
+hamstring

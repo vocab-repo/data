@@ -1,0 +1,7 @@
+tenant
+tenantable
+tenantless
+tenantlike
+tenantry
+tenants
+tenantship

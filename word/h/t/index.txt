@@ -1,0 +1,12 @@
+ht
+htaccess
+htc
+htdocs
+htm
+html
+htr
+hts
+http
+httpd
+httpdocs
+https

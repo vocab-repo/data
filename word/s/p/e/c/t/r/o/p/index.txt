@@ -1,0 +1,6 @@
+spectrophone
+spectrophosphorimeter
+spectrophotoelectric
+spectrophotofluorometer
+spectrophotometer
+spectropolarimeter

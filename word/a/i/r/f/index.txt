@@ -1,0 +1,9 @@
+airfare
+airfares
+airfield
+airfight
+airflow
+airfoil
+airframe
+airfreight
+airfreighter

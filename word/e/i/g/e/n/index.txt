@@ -1,0 +1,5 @@
+eigenfrequency
+eigenfunction
+eigenvalue
+eigenvalues
+eigenvector

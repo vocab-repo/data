@@ -1,0 +1,3 @@
+collimate
+collimation
+collimator

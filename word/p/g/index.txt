@@ -1,0 +1,7 @@
+pg
+pga
+pgdn
+pgp
+pgs
+pgsql
+pgup
