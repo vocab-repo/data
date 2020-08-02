@@ -2,58 +2,58 @@
     {
         "name":"CET4",
         "title":"四级",
-        "description":""
+        "description":"全国大学英语四级考试"
     },{
         "name":"CET6",
         "title":"六级",
-        "description":""
+        "description":"全国大学英语六级考试"
     },{
         "name":"KaoYan",
         "title":"考研",
-        "description":""
+        "description":"全国硕士研究生统一招生考试（Unified National Graduate Entrance Examination）"
     },{
         "name":"IELTS",
         "title":"雅思",
-        "description":""
+        "description":"雅思考试（国际英语语言测试系统）"
     },{
         "name":"TOEFL",
         "title":"托福",
-        "description":""
+        "description":"托福是由美国教育考试服务中心（ETS）测评研发的一个学术英语语言测试，全名为“检定非英语为母语者的英语能力考试”"
     },{
         "name":"GaoZhong",
         "title":"高中",
-        "description":""
+        "description":"高中阶段英语词汇"
     },{
         "name":"ChuZhong",
         "title":"初中",
-        "description":""
+        "description":"初中阶段英语词汇"
     },{
         "name":"XiaoXue",
         "title":"小学",
-        "description":""
+        "description":"小学阶段英语词汇"
     },{
         "name":"Level4",
         "title":"专四",
-        "description":""
+        "description":"全国高校英语专业四级考试"
     },{
         "name":"Level8",
         "title":"专八",
-        "description":""
+        "description":"全国高校英语专业八级考试"
     },{
         "name":"SAT",
         "title":"SAT",
-        "description":""
+        "description":"(美国)学术能力评估测试，Scholastic Assessment Test"
     },{
         "name":"GRE",
         "title":"GRE",
-        "description":""
+        "description":"(美国)研究生入学考试，Graduate Record Examination"
     },{
-        "name":"GMA",
-        "title":"GMA",
-        "description":""
+        "name":"GMAT",
+        "title":"GMAT",
+        "description":"(美国)研究生管理科学入学考试，Graduate Management Admission Test"
     },{
         "name":"BEC",
         "title":"BEC",
-        "description":""
+        "description":"剑桥商务英语水平考试"
     }
 ]
