@@ -1,0 +1,39 @@
+[
+    {
+        "pressName":"YD",
+        "pressTitle":"有道",
+        "content":[
+            {
+                "name": "ChuZhong_2",
+                "title": "初中词汇"
+            }
+        ]
+    },{
+        "pressName":"XDF",
+        "pressTitle":"新东方",
+        "content":[
+            {
+                "name": "ChuZhong_3",
+                "title": "初中词汇"
+            }
+        ]
+    },{
+        "pressName":"PEP",
+        "pressTitle":"人民教育出版社",
+        "content": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },{
+        "pressName":"WaiYanShe",
+        "pressTitle":"外语教学与研究出版社",
+        "content": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    }
+]

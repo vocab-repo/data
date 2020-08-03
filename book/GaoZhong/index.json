@@ -1,0 +1,39 @@
+[
+    {
+        "pressName":"YD",
+        "pressTitle":"有道",
+        "content":[
+            {
+                "name": "GaoZhong_2",
+                "title": "高中词汇"
+            }
+        ]
+    },{
+        "pressName":"XDF",
+        "pressTitle":"新东方",
+        "content":[
+            {
+                "name": "GaoZhong_3",
+                "title": "高中词汇"
+            }
+        ]
+    },{
+        "pressName":"PEP",
+        "pressTitle":"人民教育出版社",
+        "content": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },{
+        "pressName":"BeiShi",
+        "pressTitle":"北京师范大学出版社",
+        "content": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    }
+]

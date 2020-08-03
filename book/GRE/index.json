@@ -1,0 +1,21 @@
+[
+    {
+        "pressName":"YD",
+        "pressTitle":"有道",
+        "content": [
+            {
+                "name": "GRE_2",
+                "title": "GRE词汇"
+            }
+        ]
+    },{
+        "pressName":"XDF",
+        "pressTitle":"新东方",
+        "content": [
+            {
+                "name": "GRE_3",
+                "title": "GRE词汇"
+            }
+        ]
+    }
+]

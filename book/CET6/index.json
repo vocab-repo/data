@@ -1,0 +1,24 @@
+[
+    {
+        "pressName":"YD",
+        "pressTitle":"有道",
+        "content": [
+            {
+                "name": "CET6_1",
+                "title": "六级核心词汇"
+            },{
+                "name": "CET6_2",
+                "title": "六级英语词汇"
+            }
+        ]
+    },{
+        "pressName":"XDF",
+        "pressTitle":"新东方",
+        "content": [
+            {
+                "name": "CET6_3",
+                "title": "六级英语词汇"
+            }
+        ]
+    }
+]
