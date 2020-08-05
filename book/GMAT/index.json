@@ -4,11 +4,8 @@
         "pressTitle":"有道",
         "content": [
             {
-                "name": "KaoYan_1",
-                "title": "考研词汇"
-            },{
-                "name": "KaoYan_2",
-                "title": "考研词汇"
+                "name": "GMAT_2",
+                "title": "GMAT词汇"
             }
         ]
     },{
@@ -16,8 +13,8 @@
         "pressTitle":"新东方",
         "content": [
             {
-                "name": "KaoYan_3",
-                "title": "考研词汇"
+                "name": "GMAT_3",
+                "title": "GMAT词汇"
             }
         ]
     }
