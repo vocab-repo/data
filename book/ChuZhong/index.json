@@ -22,8 +22,23 @@
         "pressTitle":"人民教育出版社",
         "content": [
             {
-                "name": "",
-                "title": ""
+                "name": "PEPChuZhong7_1",
+                "title": "七年级上册"
+            },{
+                "name": "PEPChuZhong7_2",
+                "title": "七年级下册"
+            },{
+                "name": "PEPChuZhong8_1",
+                "title": "八年级上册"
+            },{
+                "name": "PEPChuZhong8_2",
+                "title": "八年级下册"
+            },{
+                "name": "PEPChuZhong9_1",
+                "title": "九年级上册"
+            },{
+                "name": "PEPChuZhong9_2",
+                "title": "九年级下册"
             }
         ]
     },{
@@ -31,8 +46,23 @@
         "pressTitle":"外语教学与研究出版社",
         "content": [
             {
-                "name": "",
-                "title": ""
+                "name": "WaiYanSheChuZhong_1",
+                "title": "七年级上册"
+            },{
+                "name": "WaiYanSheChuZhong_2",
+                "title": "七年级下册"
+            },{
+                "name": "WaiYanSheChuZhong_3",
+                "title": "八年级上册"
+            },{
+                "name": "WaiYanSheChuZhong_4",
+                "title": "八年级下册"
+            },{
+                "name": "WaiYanSheChuZhong_5",
+                "title": "九年级上册"
+            },{
+                "name": "WaiYanSheChuZhong_6",
+                "title": "九年级下册"
             }
         ]
     }

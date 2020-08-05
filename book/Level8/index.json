@@ -1,9 +1,14 @@
 [
     {
+        "pressName":"YD",
+        "pressTitle":"有道",
         "content": [
             {
-                "name": "",
-                "title": ""
+                "name": "Level8_1",
+                "title": "专八高频词汇"
+            },{
+                "name": "Level8_2",
+                "title": "专八词汇"
             }
         ]
     }

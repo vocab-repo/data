@@ -1,9 +1,20 @@
 [
     {
+        "pressName":"YD",
+        "pressTitle":"有道",
         "content": [
             {
-                "name": "",
-                "title": ""
+                "name": "SAT_2",
+                "title": "SAT词汇"
+            }
+        ]
+    },{
+        "pressName":"XDF",
+        "pressTitle":"新东方",
+        "content": [
+            {
+                "name": "SAT_3",
+                "title": "SAT词汇"
             }
         ]
     }

@@ -22,8 +22,38 @@
         "pressTitle":"人民教育出版社",
         "content": [
             {
-                "name": "",
-                "title": ""
+                "name": "PEPGaoZhong_1",
+                "title": "必修·1"
+            },{
+                "name": "PEPGaoZhong_2",
+                "title": "必修·2"
+            },{
+                "name": "PEPGaoZhong_3",
+                "title": "必修·3"
+            },{
+                "name": "PEPGaoZhong_4",
+                "title": "必修·4"
+            },{
+                "name": "PEPGaoZhong_5",
+                "title": "必修·5"
+            },{
+                "name": "PEPGaoZhong_6",
+                "title": "选修·6"
+            },{
+                "name": "PEPGaoZhong_7",
+                "title": "选修·7"
+            },{
+                "name": "PEPGaoZhong_8",
+                "title": "选修·8"
+            },{
+                "name": "PEPGaoZhong_9",
+                "title": "选修·9"
+            },{
+                "name": "PEPGaoZhong_10",
+                "title": "选修·10"
+            },{
+                "name": "PEPGaoZhong_11",
+                "title": "选修·11"
             }
         ]
     },{
@@ -31,8 +61,38 @@
         "pressTitle":"北京师范大学出版社",
         "content": [
             {
-                "name": "",
-                "title": ""
+                "name": "BeiShiGaoZhong_1",
+                "title": "必修·1"
+            },{
+                "name": "BeiShiGaoZhong_2",
+                "title": "必修·2"
+            },{
+                "name": "BeiShiGaoZhong_3",
+                "title": "必修·3"
+            },{
+                "name": "BeiShiGaoZhong_4",
+                "title": "必修·4"
+            },{
+                "name": "BeiShiGaoZhong_5",
+                "title": "必修·5"
+            },{
+                "name": "BeiShiGaoZhong_6",
+                "title": "选修·6"
+            },{
+                "name": "BeiShiGaoZhong_7",
+                "title": "选修·7"
+            },{
+                "name": "BeiShiGaoZhong_8",
+                "title": "选修·8"
+            },{
+                "name": "BeiShiGaoZhong_9",
+                "title": "选修·9"
+            },{
+                "name": "BeiShiGaoZhong_10",
+                "title": "选修·10"
+            },{
+                "name": "BeiShiGaoZhong_11",
+                "title": "选修·11"
             }
         ]
     }
